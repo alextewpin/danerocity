@@ -65,7 +65,7 @@ var App = React.createClass({displayName: "App",
 	render() {
 		return (
 			React.createElement("div", null, 
-				React.createElement("div", {className: "header"}, "Danerocity — mob damage per turn calculator"), 
+				React.createElement("div", {className: "header"}, "Dangerocity — mob damage per turn calculator"), 
 				React.createElement("table", {className: "monsters"}, 
 					React.createElement("tbody", null, 
 						React.createElement("tr", {className: "monsters__title"}, 

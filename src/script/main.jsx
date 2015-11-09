@@ -65,7 +65,7 @@ var App = React.createClass({
 	render() {
 		return (
 			<div>
-				<div className='header'>Danerocity — mob damage per turn calculator</div>
+				<div className='header'>Dangerocity — mob damage per turn calculator</div>
 				<table className='monsters'>
 					<tbody>
 						<tr className='monsters__title'>
