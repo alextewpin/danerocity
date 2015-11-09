@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "react": "^0.14.2"
+  },
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-react": "*",
+    "gulp-sass": "*"
+  }
+}
